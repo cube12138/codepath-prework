@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+- [x] Change the color to make it more readable
 
 ## Video Walkthrough
 
@@ -30,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://recordit.co/C0xZILjLDY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [recordit](https://recordit.co/).
 
 ## Notes
 
